@@ -1,0 +1,128 @@
+[
+  {
+    "name": "坂本勇人",
+    "team": "読売ジャイアンツ",
+    "position": "内野手",
+    "high_school": "神奈川県立横浜高校",
+    "hometown": "神奈川県"
+  },
+  {
+    "name": "筒香嘉智",
+    "team": "横浜DeNAベイスターズ",
+    "position": "外野手",
+    "high_school": "鹿児島実業高校",
+    "hometown": "鹿児島県"
+  },
+  {
+    "name": "菊池涼介",
+    "team": "広島東洋カープ",
+    "position": "内野手",
+    "high_school": "福岡県立小倉高校",
+    "hometown": "福岡県"
+  },
+  {
+    "name": "鈴木誠也",
+    "team": "広島東洋カープ",
+    "position": "外野手",
+    "high_school": "鳥取県立米子東高校",
+    "hometown": "鳥取県"
+  },
+  {
+    "name": "柳田悠岐",
+    "team": "福岡ソフトバンクホークス",
+    "position": "外野手",
+    "high_school": "兵庫県立明石商業高校",
+    "hometown": "兵庫県"
+  },
+  {
+    "name": "山川穂高",
+    "team": "北海道日本ハムファイターズ",
+    "position": "内野手",
+    "high_school": "兵庫県立箕島高校",
+    "hometown": "兵庫県"
+  },
+  {
+    "name": "梨田昌孝",
+    "team": "福岡ソフトバンクホークス",
+    "position": "投手",
+    "high_school": "北海道旭川南高校",
+    "hometown": "北海道"
+  },
+  {
+    "name": "大谷翔平",
+    "team": "ロサンゼルス・エンゼルス",
+    "position": "投手/外野手",
+    "high_school": "岩手県立大船渡高校",
+    "hometown": "岩手県"
+  },
+  {
+    "name": "松坂大輔",
+    "team": "福岡ソフトバンクホークス",
+    "position": "投手",
+    "high_school": "横浜高校",
+    "hometown": "神奈川県"
+  },
+  {
+    "name": "藤浪晋太郎",
+    "team": "阪神タイガース",
+    "position": "投手",
+    "high_school": "大阪桐蔭高校",
+    "hometown": "大阪府"
+  },
+  {
+    "name": "岩崎優",
+    "team": "千葉ロッテマリーンズ",
+    "position": "投手",
+    "high_school": "愛知県立名古屋工業高校",
+    "hometown": "愛知県"
+  },
+  {
+    "name": "山口俊",
+    "team": "読売ジャイアンツ",
+    "position": "投手",
+    "high_school": "宮崎県立宮崎工業高校",
+    "hometown": "宮崎県"
+  },
+  {
+    "name": "菅野智之",
+    "team": "読売ジャイアンツ",
+    "position": "投手",
+    "high_school": "山口県立下関商業高校",
+    "hometown": "山口県"
+  },
+  {
+    "name": "斎藤佑樹",
+    "team": "北海道日本ハムファイターズ",
+    "position": "投手",
+    "high_school": "早稲田実業学校",
+    "hometown": "東京都"
+  },
+  {
+    "name": "田中将大",
+    "team": "ニューヨーク・ヤンキース",
+    "position": "投手",
+    "high_school": "仙台育英高校",
+    "hometown": "宮城県"
+  },
+  {
+    "name": "秋山翔吾",
+    "team": "埼玉西武ライオンズ",
+    "position": "外野手",
+    "high_school": "滋賀県立彦根東高校",
+    "hometown": "滋賀県"
+  },
+  {
+    "name": "浅村栄斗",
+    "team": "埼玉西武ライオンズ",
+    "position": "内野手",
+    "high_school": "秋田県立秋田商業高校",
+    "hometown": "秋田県"
+  },
+  {
+    "name": "糸井嘉男",
+    "team": "中日ドラゴンズ",
+    "position": "外野手",
+    "high_school": "愛知県立明和高校",
+    "hometown": "愛知県"
+  }
+]
