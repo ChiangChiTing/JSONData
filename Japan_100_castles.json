@@ -1,1 +1,2489 @@
-
+{
+  "hundredCastlesList": [
+    {
+      "serialNumber": 1,
+      "name": "根室半島砦跡群",
+      "japaneseName": "根室半島チャシ跡群",
+      "furigana": "ねむろはんとうチャシあとぐん",
+      "area": "北海道",
+      "type": "山城",
+      "tenshu": "無",
+      "latitude": 43.388642,
+      "longtitude": 145.782457,
+      "stampPlace": [
+        {
+          "japaneseName": "根室市歴史と自然の資料館",
+          "name": "根室市歷史與自然資料館",
+          "latitude": 43.2887394,
+          "longtitude": 145.5903212,
+          "url": "https://www.city.nemuro.hokkaido.jp/lifeinfo/kakuka/kyoikuiinkai/kyoikushiryokan/index.html"
+        },
+        {
+          "japaneseName": "根室市観光インフォメーションセンター(根室駅前)",
+          "name": "根室市觀光諮詢中心(根室站前)",
+          "latitude": 43.326918,
+          "longtitude": 145.582663,
+          "url": "https://www.city.nemuro.hokkaido.jp/lifeinfo/kakuka/suisankeizaibu/shoukoukankou/1/1195.html"
+        },
+        {
+          "japaneseName": "根室市北方領土資料館",
+          "name": "根室市北方領土資料館",
+          "latitude": 43.3849522,
+          "longtitude": 145.8116426,
+          "url": "https://www.city.nemuro.hokkaido.jp/lifeinfo/kakuka/hoppouryoudotaisakubu/hoppouryoudotaisakuka/2/8380.html"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 2,
+      "name": "五稜郭",
+      "japaneseName": "五稜郭",
+      "furigana": "ごりょうかく",
+      "area": "北海道",
+      "type": "平城",
+      "tenshu": "無",
+      "latitude": 41.796888,
+      "longtitude": 140.756986,
+      "stampPlace": [
+        {
+          "japaneseName": "箱館奉行所付属建物「板庫(休憩所)」",
+          "name": "箱館奉行所附屬建築物「板庫(休憩所)」",
+          "latitude": 41.7968697,
+          "longtitude": 140.7568064,
+          "url": "https://www.hakodate.travel/cht/sightseeing-spots/historic-building/hakodate-magistrates-office/"
+        },
+        {
+          "japaneseName": "五稜郭タワーチケット売り場",
+          "name": "五稜郭塔售票處",
+          "latitude": 41.7946699,
+          "longtitude": 140.75402,
+          "url": "https://www.goryokaku-tower.co.jp/cht/price/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 3,
+      "name": "松前城",
+      "japaneseName": "松前城",
+      "furigana": "まつまえじょう",
+      "area": "北海道",
+      "type": "平山城",
+      "tenshu": "三重三階層塔型(復興)",
+      "latitude": 41.429873,
+      "longtitude": 140.108454,
+      "stampPlace": [
+        {
+          "japaneseName": "松前城資料館施設内",
+          "name": "松前城資料館內",
+          "latitude": 41.4298799,
+          "longtitude": 140.1084293,
+          "url": "https://hokkaido-digital-museum.jp/zh-tw/facility/matsumae-castle-museum/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 4,
+      "name": "弘前城",
+      "japaneseName": "弘前城",
+      "furigana": "ひろさきじょう",
+      "area": "青森縣",
+      "type": "平山城",
+      "tenshu": "三重三階層塔型(現存)",
+      "latitude": 40.607448,
+      "longtitude": 140.464182,
+      "stampPlace": [
+        {
+          "japaneseName": "弘前城情報館",
+          "name": "弘前城情報館",
+          "latitude": 40.6066091,
+          "longtitude": 140.4647279,
+          "url": "https://www.city.hirosaki.aomori.jp/gaiyou/shisetsu/20180420_jouhoukan.html"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 5,
+      "name": "根城",
+      "japaneseName": "根城",
+      "furigana": "ねじょう",
+      "area": "青森縣",
+      "type": "平城",
+      "tenshu": "無",
+      "latitude": 40.506159,
+      "longtitude": 141.460393,
+      "stampPlace": [
+        {
+          "japaneseName": "史跡根城の広場料金所",
+          "name": "史跡根城廣場售票處",
+          "latitude": 40.5060958,
+          "longtitude": 141.4605128,
+          "url": "https://visithachinohe.com/han/spot/shiseki-nejo-no-hiroba/#access"
+        },
+        {
+          "japaneseName": "八戸市博物館受付",
+          "name": "八戶市博物館入口櫃檯",
+          "latitude": 40.5083623,
+          "longtitude": 141.4644784,
+          "url": "https://hachinohe-city-museum.jp/guide_information/"
+        },
+        {
+          "japaneseName": "史跡根城ボランティアガイドハウス窓口",
+          "name": "史跡根城志工解說處窗口",
+          "latitude": 40.5080846,
+          "longtitude": 141.4642275,
+          "url": "https://www.facebook.com/100070966988391/posts/1127369760990158/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 6,
+      "name": "盛岡城",
+      "japaneseName": "盛岡城",
+      "furigana": "もりおかじょう",
+      "area": "岩手縣",
+      "type": "平山城",
+      "tenshu": "只殘存天守台",
+      "latitude": 39.699949,
+      "longtitude": 141.150099,
+      "stampPlace": [
+        {
+          "japaneseName": "プラザおでって2階観光文化情報プラザ",
+          "name": "Plaza Odette 2樓觀光文化情報廣場",
+          "latitude": 39.7000633,
+          "longtitude": 141.1547039,
+          "url": "https://www.odette.or.jp/plaza-odette/?page_id=466"
+        },
+        {
+          "japaneseName": "もりおか歴史文化館",
+          "name": "盛岡歴史文化館",
+          "latitude": 39.70102,
+          "longtitude": 141.152592,
+          "url": "https://visitiwate.com/zh-tw/article/4757"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 7,
+      "name": "多賀城",
+      "japaneseName": "多賀城",
+      "furigana": "たがじょう/たかのき",
+      "area": "宮城縣",
+      "type": "平山城",
+      "tenshu": "無",
+      "latitude": 38.306631,
+      "longtitude": 140.988399,
+      "stampPlace": [
+        {
+          "japaneseName": "多賀城跡管理事務所",
+          "name": "多賀城跡管理事務所",
+          "latitude": 38.3074573,
+          "longtitude": 140.9892034,
+          "url": "https://www.city.tagajo.miyagi.jp/shimin-power/kurashi/shisetsu/shisetsu/kominkan/008.html"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 8,
+      "name": "仙台城",
+      "japaneseName": "仙台城",
+      "furigana": "せんだいじょう",
+      "area": "宮城縣",
+      "type": "平山城",
+      "tenshu": "無",
+      "latitude": 38.252627,
+      "longtitude": 140.856054,
+      "stampPlace": [
+        {
+          "japaneseName": "仙台城見聞館展示コーナー",
+          "name": "仙台城見聞館展示處",
+          "latitude": 38.2533962,
+          "longtitude": 140.8559094,
+          "url": "https://www.city.sendai.jp/shisekichosa/kurashi/manabu/kyoiku/inkai/bunkazai/bunkazai/joseki/annai.html"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 9,
+      "name": "久保田城",
+      "japaneseName": "久保田城",
+      "furigana": "くぼたじょう",
+      "area": "秋田縣",
+      "type": "平山城",
+      "tenshu": "無",
+      "latitude": 39.723481,
+      "longtitude": 140.123242,
+      "stampPlace": [
+        {
+          "japaneseName": "秋田市立佐竹史料館",
+          "name": "秋田市立佐竹史料館",
+          "latitude": 39.719978,
+          "longtitude": 140.124801,
+          "url": "https://www.city.akita.lg.jp/kanko/kanrenshisetsu/1002685/index.html"
+        },
+        {
+          "japaneseName": "久保田城御隅櫓",
+          "name": "久保田城御隅櫓",
+          "latitude": 39.7234333,
+          "longtitude": 140.123275,
+          "url": "https://www.city.akita.lg.jp/shisetsu/hakubutukan-tpsyokan/1011113/1006563.html"
+        }
+      ],
+      "remark": "秋田市立佐竹史料館目前休館中，預計於2025年(令和7年)10月重新開館，休館期間請至「久保田城御隅櫓」蓋章。"
+    },
+    {
+      "serialNumber": 10,
+      "name": "山形城",
+      "japaneseName": "山形城",
+      "furigana": "やまがたじょう",
+      "area": "山形縣",
+      "type": "平城",
+      "tenshu": "無",
+      "latitude": 38.256236,
+      "longtitude": 140.327369,
+      "stampPlace": [
+        {
+          "japaneseName": "最上義光歴史館",
+          "name": "最上義光歴史館",
+          "latitude": 38.2550943,
+          "longtitude": 140.3334356,
+          "url": "https://www.city.yamagata-yamagata.lg.jp/bunkasports/geijyutsu/1006706/1008028.html"
+        },
+        {
+          "japaneseName": "山形市郷土館受付窓口",
+          "name": "山形市鄉土館入口櫃檯窗口",
+          "latitude": 38.253275,
+          "longtitude": 140.328614,
+          "url": "https://www.city.yamagata-yamagata.lg.jp/shisetsu/bunkasports/1008032/1005895.html"
+        },
+        {
+          "japaneseName": "二ノ丸東大手門櫓内部",
+          "name": "二之丸東大手門櫓內部",
+          "latitude": 38.2552623,
+          "longtitude": 140.3307021,
+          "url": "https://www.city.yamagata-yamagata.lg.jp/bunkasports/bunkazai/1006708/1003674.html"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 11,
+      "name": "二本松城",
+      "japaneseName": "二本松城",
+      "furigana": "にほんまつじょう",
+      "area": "福島縣",
+      "type": "平山城",
+      "tenshu": "只殘存天守台",
+      "latitude": 37.599588,
+      "longtitude": 140.428011,
+      "stampPlace": [
+        {
+          "japaneseName": "にほんまつ城報館",
+          "name": "二本松城報館",
+          "latitude": 37.5971558,
+          "longtitude": 140.4339363,
+          "url": "https://www.city.nihonmatsu.lg.jp/johokan/k_annai/opening_hours.html"
+        },
+        {
+          "japaneseName": "JR二本松駅内観光案内所",
+          "name": "JR二本松站內觀光諮詢處",
+          "latitude": 37.5896026,
+          "longtitude": 140.4354267,
+          "url": "https://www.tif.ne.jp/jp/spot.html?spot=2880"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 12,
+      "name": "會津若松城",
+      "japaneseName": "会津若松城",
+      "furigana": "あいづわかまつじょう",
+      "area": "福島縣",
+      "type": "平山城",
+      "tenshu": "五重五階層塔型(再建)",
+      "latitude": 37.487715,
+      "longtitude": 139.929779,
+      "stampPlace": [
+        {
+          "japaneseName": "天守閣内売店",
+          "name": "天守閣內販賣處",
+          "latitude": 37.4878198,
+          "longtitude": 139.9296657,
+          "url": "https://www.tsurugajo.com/tsurugajo/tensyukaku/#guide"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 13,
+      "name": "白河小峰城",
+      "japaneseName": "白河小峰城",
+      "furigana": "しらかわこみねじょう",
+      "area": "福島縣",
+      "type": "平山城",
+      "tenshu": "無",
+      "latitude": 37.132741,
+      "longtitude": 140.213792,
+      "stampPlace": [
+        {
+          "japaneseName": "三重櫓",
+          "name": "三重櫓",
+          "latitude": 37.1326576,
+          "longtitude": 140.2139264,
+          "url": "https://www.city.shirakawa.fukushima.jp/page/page005826.html"
+        },
+        {
+          "japaneseName": "二ノ丸茶屋",
+          "name": "二之丸茶屋",
+          "latitude": 37.1313852,
+          "longtitude": 140.2131974,
+          "url": "https://shirakawa315.com/recommendcp/%E4%BA%8C%E3%83%8E%E4%B8%B8%E8%8C%B6%E5%B1%8B/"
+        },
+        {
+          "japaneseName": "白河観光物産協会",
+          "name": "白河觀光物產協會",
+          "latitude": 37.1296301,
+          "longtitude": 140.2135354,
+          "url": "https://www.gurutto-mazar.com/detail/index_326.html"
+        },
+        {
+          "japaneseName": "白河集古苑",
+          "name": "白河集古苑(小峰城歴史館)",
+          "latitude": 37.1324067,
+          "longtitude": 140.2136919,
+          "url": "https://shirakawa.welcome-fukushima.com/co/syuukoen"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 14,
+      "name": "水戶城",
+      "japaneseName": "水戸城",
+      "furigana": "みとじょう",
+      "area": "茨城縣",
+      "type": "平山城",
+      "tenshu": "無",
+      "latitude": 36.372662,
+      "longtitude": 140.482725,
+      "stampPlace": [
+        {
+          "japaneseName": "弘道館料金所窓口",
+          "name": "弘道館售票處窗口",
+          "latitude": 36.3751452,
+          "longtitude": 140.477631,
+          "url": "https://visit.ibarakiguide.jp/zh-hant/sightseeing/22867/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 15,
+      "name": "足利氏館",
+      "japaneseName": "足利氏館",
+      "furigana": "あしかがしやかた",
+      "area": "栃木縣",
+      "type": "平城",
+      "tenshu": "無",
+      "latitude": 36.337391,
+      "longtitude": 139.452256,
+      "stampPlace": [
+        {
+          "japaneseName": "鑁阿寺本堂",
+          "name": "鑁阿寺本堂",
+          "latitude": 36.3373804,
+          "longtitude": 139.452244,
+          "url": "https://www.visit-tochigi.com/zh-tw/plan-your-trip/things-to-do/6307/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 16,
+      "name": "箕輪城",
+      "japaneseName": "箕輪城",
+      "furigana": "みのわじょう",
+      "area": "群馬縣",
+      "type": "平山城",
+      "tenshu": "無",
+      "latitude": 36.404634,
+      "longtitude": 138.951309,
+      "stampPlace": [
+        {
+          "japaneseName": "高崎市役所箕郷支所受付窓口",
+          "name": "高崎市役所箕鄉分所櫃檯窗口",
+          "latitude": 36.3919726,
+          "longtitude": 138.9556895,
+          "url": "https://www.city.takasaki.gunma.jp/docs/2013121900058/#annai"
+        },
+        {
+          "japaneseName": "高崎市箕郷公民館",
+          "name": "高崎市箕郷公民館",
+          "latitude": 36.39172,
+          "longtitude": 138.956539,
+          "url": "https://www.city.takasaki.gunma.jp/docs/2013121900058/#annai"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 17,
+      "name": "金山城",
+      "japaneseName": "金山城",
+      "furigana": "かなやまじょう",
+      "area": "群馬縣",
+      "type": "山城",
+      "tenshu": "無",
+      "latitude": 36.317803,
+      "longtitude": 139.377469,
+      "stampPlace": [
+        {
+          "japaneseName": "中島記念公園(史跡金山城跡・南曲輪)の休憩施設内",
+          "name": "中島紀念公園(史跡金山城跡・南曲輪)的休息設施內",
+          "latitude": 36.325176,
+          "longtitude": 139.088027,
+          "url": "https://www.city.ota.gunma.jp/page/4140.html"
+        }
+      ],
+      "remark": "位於山腳的史跡金山城跡導覽設施(史跡金山城跡ガイダンス施設)並無設置百名城蓋章處，欲蓋章者請前往山頂附近中島記念公園的南曲輪休憩所内蓋章。"
+    },
+    {
+      "serialNumber": 18,
+      "name": "鉢形城",
+      "japaneseName": "鉢形城",
+      "furigana": "はちがたじょう",
+      "area": "埼玉縣",
+      "type": "平山城",
+      "tenshu": "無",
+      "latitude": 36.109047,
+      "longtitude": 139.195224,
+      "stampPlace": [
+        {
+          "japaneseName": "鉢形城歴史館受付",
+          "name": "鉢形城歴史館入口櫃檯",
+          "latitude": 36.1065674,
+          "longtitude": 139.1962732,
+          "url": "https://www.town.yorii.saitama.jp/site/rekishikan/kaikannjikan.html"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 19,
+      "name": "川越城",
+      "japaneseName": "川越城",
+      "furigana": "かわごえじょう",
+      "area": "埼玉縣",
+      "type": "平城",
+      "tenshu": "無",
+      "latitude": 35.924529,
+      "longtitude": 139.491487,
+      "stampPlace": [
+        {
+          "japaneseName": "川越城本丸御殿受付窓口",
+          "name": "川越城本丸御殿櫃檯窗口",
+          "latitude": 35.9243931,
+          "longtitude": 139.4915051,
+          "url": "https://ch-han.chocotabi-saitama.com/spot/20263"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 20,
+      "name": "佐倉城",
+      "japaneseName": "佐倉城",
+      "furigana": "さくらじょう",
+      "area": "千葉縣",
+      "type": "平山城",
+      "tenshu": "無",
+      "latitude": 35.721989,
+      "longtitude": 140.216717,
+      "stampPlace": [
+        {
+          "japaneseName": "佐倉城址公園管理センター",
+          "name": "佐倉城址公園管理中心",
+          "latitude": 35.7236202,
+          "longtitude": 140.2180785,
+          "url": "https://www.city.sakura.lg.jp/soshiki/koenryokuchika/3/13/4609.html"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 21,
+      "name": "江戶城",
+      "japaneseName": "江戸城",
+      "furigana": "えどじょう",
+      "area": "東京都",
+      "type": "平城",
+      "tenshu": "只殘存天守台",
+      "latitude": 35.688325,
+      "longtitude": 139.754366,
+      "stampPlace": [
+        {
+          "japaneseName": "楠公休憩場",
+          "name": "楠公休憩場",
+          "latitude": 35.6773595,
+          "longtitude": 139.7593506,
+          "url": "https://www.env.go.jp/garden/kokyogaien/kyukeisisetu_nankokyukeijo.html"
+        },
+        {
+          "japaneseName": "和田倉休憩場",
+          "name": "和田倉休憩場",
+          "latitude": 35.6847681,
+          "longtitude": 139.7613103,
+          "url": "https://fng.or.jp/koukyo/place/rest/wadakura-rest/"
+        },
+        {
+          "japaneseName": "北の丸休憩場",
+          "name": "北之丸休憩場",
+          "latitude": 35.691791,
+          "longtitude": 139.750514,
+          "url": "https://www.japan.travel/tw/spot/1728/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 22,
+      "name": "八王子城",
+      "japaneseName": "八王子城",
+      "furigana": "はちおうじじょう",
+      "area": "東京都",
+      "type": "山城",
+      "tenshu": "無",
+      "latitude": 35.652812,
+      "longtitude": 139.252024,
+      "stampPlace": [
+        {
+          "japaneseName": "八王子城跡管理棟前",
+          "name": "八王子城跡管理棟前",
+          "latitude": 35.6547616,
+          "longtitude": 139.2595579,
+          "url": "https://www.city.hachioji.tokyo.jp/kankobunka/003/005/p005205.html"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 23,
+      "name": "小田原城",
+      "japaneseName": "小田原城",
+      "furigana": "おだわらじょう",
+      "area": "神奈川縣",
+      "type": "平山城",
+      "tenshu": "三重四階層塔型(復興)",
+      "latitude": 35.250979,
+      "longtitude": 139.153514,
+      "stampPlace": [
+        {
+          "japaneseName": "天守閣1階",
+          "name": "天守閣1樓",
+          "latitude": 35.2509493,
+          "longtitude": 139.1535136,
+          "url": "https://trip.pref.kanagawa.jp/tc/destination/odawara-castle/188"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 24,
+      "name": "武田氏館",
+      "japaneseName": "武田氏館",
+      "furigana": "たけだしやかた",
+      "area": "山梨縣",
+      "type": "平城",
+      "tenshu": "無",
+      "latitude": 35.686691,
+      "longtitude": 138.577388,
+      "stampPlace": [
+        {
+          "japaneseName": "武田神社宝物殿入口",
+          "name": "武田神社寶物殿入口",
+          "latitude": 35.6865563,
+          "longtitude": 138.5778138,
+          "url": "http://www.takedajinja.or.jp/4_homotsu.html"
+        },
+        {
+          "japaneseName": "武田神社神府集札授与所",
+          "name": "武田神社神府集札授與所",
+          "latitude": 35.6867838,
+          "longtitude": 138.5772201,
+          "url": "http://www.takedajinja.or.jp/2_map.html#"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 25,
+      "name": "甲府城",
+      "japaneseName": "甲府城",
+      "furigana": "こうふじょう",
+      "area": "山梨縣",
+      "type": "平山城",
+      "tenshu": "只殘存天守台",
+      "latitude": 35.665272,
+      "longtitude": 138.571378,
+      "stampPlace": [
+        {
+          "japaneseName": "舞鶴城公園管理事務所",
+          "name": "舞鶴城公園管理事務所",
+          "latitude": 35.6643364,
+          "longtitude": 138.5712393,
+          "url": "https://kofu-tourism.com/spot/19"
+        },
+        {
+          "japaneseName": "甲府城稲荷櫓",
+          "name": "甲府城稻荷櫓",
+          "latitude": 35.6658731,
+          "longtitude": 138.5720171,
+          "url": "https://kofu-tourism.com/spot/19"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 26,
+      "name": "松代城",
+      "japaneseName": "松代城",
+      "furigana": "まつしろじょう",
+      "area": "長野縣",
+      "type": "平城",
+      "tenshu": "只殘存天守台",
+      "latitude": 36.566147,
+      "longtitude": 138.195632,
+      "stampPlace": [
+        {
+          "japaneseName": "真田邸",
+          "name": "真田邸",
+          "latitude": 36.5633505,
+          "longtitude": 138.1966112,
+          "url": "https://www.sanadahoumotsukan.com/tw/facility_detail.php?n=2"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 27,
+      "name": "上田城",
+      "japaneseName": "上田城",
+      "furigana": "うえだじょう",
+      "area": "長野縣",
+      "type": "平城",
+      "tenshu": "無",
+      "latitude": 36.403988,
+      "longtitude": 138.244379,
+      "stampPlace": [
+        {
+          "japaneseName": "上田市立博物館",
+          "name": "上田市立博物館",
+          "latitude": 36.4037266,
+          "longtitude": 138.2464675,
+          "url": "https://museum.umic.jp/hakubutsukan/information"
+        },
+        {
+          "japaneseName": "上田市観光会館",
+          "name": "上田市觀光會館",
+          "latitude": 36.402972,
+          "longtitude": 138.2473196,
+          "url": "https://ueda-kanko.or.jp/spot/kankoukaikan/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 28,
+      "name": "小諸城",
+      "japaneseName": "小諸城",
+      "furigana": "こもろじょう",
+      "area": "長野縣",
+      "type": "平山城",
+      "tenshu": "只殘存天守台",
+      "latitude": 36.327062,
+      "longtitude": 138.417478,
+      "stampPlace": [
+        {
+          "japaneseName": "懐古園事務所",
+          "name": "懷古園事務所",
+          "latitude": 36.3272784,
+          "longtitude": 138.4202203,
+          "url": "https://www.city.komoro.lg.jp/kaikoen/about/7134.html"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 29,
+      "name": "松本城",
+      "japaneseName": "松本城",
+      "furigana": "まつもとじょう",
+      "area": "長野縣",
+      "type": "平城",
+      "tenshu": "五重六階層塔型(現存)",
+      "latitude": 36.238625,
+      "longtitude": 137.968862,
+      "stampPlace": [
+        {
+          "japaneseName": "松本城管理事務所",
+          "name": "松本城管理事務所",
+          "latitude": 36.238494,
+          "longtitude": 137.9700788,
+          "url": "https://www.matsumoto-castle.jp/tc/info"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 30,
+      "name": "高遠城",
+      "japaneseName": "高遠城",
+      "furigana": "たかとおじょう",
+      "area": "長野縣",
+      "type": "平山城",
+      "tenshu": "無",
+      "latitude": 35.833222,
+      "longtitude": 138.062121,
+      "stampPlace": [
+        {
+          "japaneseName": "伊那市立高遠町歴史博物館",
+          "name": "伊那市立高遠町歴史博物館",
+          "latitude": 35.8302358,
+          "longtitude": 138.0640335,
+          "url": "https://www.inacity.jp/shisetsu/library_museum/rekishihakubutsukan/riyoannai/hakubutsukan_annai.html"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 31,
+      "name": "新發田城",
+      "japaneseName": "新発田城",
+      "furigana": "しばたじょう",
+      "area": "新潟縣",
+      "type": "平城",
+      "tenshu": "三重三階層塔型(復元)",
+      "latitude": 37.955798,
+      "longtitude": 139.325044,
+      "stampPlace": [
+        {
+          "japaneseName": "新発田城表門(4月~11月)",
+          "name": "新發田城表門(4月~11月)",
+          "latitude": 37.9547806,
+          "longtitude": 139.3260148,
+          "url": "https://www.city.shibata.lg.jp/kurashi/bunka/bunkazai/shi/1001544.html"
+        },
+        {
+          "japaneseName": "新発田市役所本庁舎(12月~3月)",
+          "name": "新發田市役所本廳舍(12月~3月)",
+          "latitude": 37.9478679,
+          "longtitude": 139.3271015,
+          "url": "https://www.city.shibata.lg.jp/kurashi/bunka/bunkazai/shi/1001544.html"
+        },
+        {
+          "japaneseName": "白壁兵舎広報史料館(12月~3月)",
+          "name": "白壁兵舍廣報史料館(12月~3月)",
+          "latitude": 37.9543771,
+          "longtitude": 139.3223077,
+          "url": "https://www.city.shibata.lg.jp/kurashi/bunka/bunkazai/shi/1001544.html"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 32,
+      "name": "春日山城",
+      "japaneseName": "春日山城",
+      "furigana": "かすがやまじょう",
+      "area": "新潟縣",
+      "type": "山城",
+      "tenshu": "只殘存天守台",
+      "latitude": 37.147020,
+      "longtitude": 138.206016,
+      "stampPlace": [
+        {
+          "japaneseName": "春日山城跡ものがたり館(3月~11月)",
+          "name": "春日山城跡故事館(3月~11月)",
+          "latitude": 37.1530313,
+          "longtitude": 138.2223215,
+          "url": "https://joetsukankonavi.jp/spot/detail.php?id=5"
+        },
+        {
+          "japaneseName": "上越市埋蔵文化財センター(12月~2月)",
+          "name": "上越市埋藏文化財中心(12月~2月)",
+          "latitude": 37.1442998,
+          "longtitude": 138.2191172,
+          "url": "https://joetsukankonavi.jp/spot/detail.php?id=4"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 33,
+      "name": "高岡城",
+      "japaneseName": "高岡城",
+      "furigana": "たかおかじょう",
+      "area": "富山縣",
+      "type": "平城",
+      "tenshu": "無",
+      "latitude": 36.749199,
+      "longtitude": 137.020332,
+      "stampPlace": [
+        {
+                    "japaneseName": "高岡市立博物館",
+          "name": "高岡市立博物館",
+          "latitude": 36.7465731,
+          "longtitude": 137.0208647,
+          "url": "https://www.e-tmm.info/index.htm"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 34,
+      "name": "七尾城",
+      "japaneseName": "七尾城",
+      "furigana": "ななおじょう",
+      "area": "石川縣",
+      "type": "山城",
+      "tenshu": "只殘存天守台",
+      "latitude": 37.008646,
+      "longtitude": 136.983955,
+      "stampPlace": [
+        {
+           "japaneseName": "七尾城史資料館(3月11日~12月10日)",
+          "name": "七尾城史資料館(3月11日~12月10日)",
+          "latitude": 37.0244677,
+          "longtitude": 136.9760067,
+          "url": "https://www.city.nanao.lg.jp/sportsbunka/shisetsu/08.html"
+        },
+        {
+           "japaneseName": "七尾市教育委員会文化財課(七尾市役所内)(12月11日~3月10日)",
+          "name": "七尾市教育委員會文化財課(七尾市役所內)(12月11日~3月10日)",
+          "latitude": 37.0438483,
+          "longtitude": 136.9641261,
+          "url": "https://www.city.nanao.lg.jp/sportsbunka/aramashi/kaichojikan/kyoikuinkai/sportsbunka.html"
+        }
+      ],
+      "remark": "受到2024年(令和6年)元旦發生的能登半島地震之影響，請隨時留意官方發佈之相關最新訊息。"
+    },
+    {
+      "serialNumber": 35,
+      "name": "金澤城",
+      "japaneseName": "金沢城",
+      "furigana": "かなざわじょう",
+      "area": "石川縣",
+      "type": "平山城",
+      "tenshu": "無",
+      "latitude": 36.563999,
+      "longtitude": 136.659455,
+      "stampPlace": [
+        {
+           "japaneseName": "二の丸案内所",
+          "name": "二之丸案內所",
+          "latitude": 36.5654404,
+          "longtitude": 136.6592231,
+          "url": "https://www.pref.ishikawa.jp/siro-niwa/japanese/info.html"
+        },
+        {
+           "japaneseName": "石川門入口案内所",
+          "name": "石川門入口案內所",
+          "latitude": 36.5780014,
+          "longtitude": 136.6488883,
+          "url": "==="
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 36,
+      "name": "丸岡城",
+      "japaneseName": "丸岡城",
+      "furigana": "まるおかじょう",
+      "area": "福井縣",
+      "type": "平山城",
+      "tenshu": "二重三階望樓型(現存)",
+      "latitude": 36.152365,
+      "longtitude": 136.272128,
+      "stampPlace": [
+        {
+           "japaneseName": "霞ヶ城公園管理事務所(券売所窓口)",
+          "name": "霞城公園管理事務所(售票處窗口)",
+          "latitude": 36.152209,
+          "longtitude": 136.2738109,
+          "url": "==="
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 37,
+      "name": "一乘谷城",
+      "japaneseName": "一乗谷城",
+      "furigana": "いちじょうだにじょう",
+      "area": "福井縣",
+      "type": "山城",
+      "tenshu": "無",
+      "latitude": 35.999444,
+      "longtitude": 136.295612,
+      "stampPlace": [
+        {
+           "japaneseName": "復原町並入口(南・北)",
+          "name": "復原町並入口(南・北)",
+          "latitude": 35.997318,
+          "longtitude": 136.293119,
+          "url": "https://www.fuku-e.com/spot/detail_1126.html"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 38,
+      "name": "岩村城",
+      "japaneseName": "岩村城",
+      "furigana": "いわむらじょう",
+      "area": "岐阜縣",
+      "type": "山城",
+      "tenshu": "無",
+      "latitude": 35.359953,
+      "longtitude": 137.451247,
+      "stampPlace": [
+        {
+           "japaneseName": "岩村歴史資料館受付窓口",
+          "name": "岩村歴史資料館櫃檯窗口",
+          "latitude": 35.3638244,
+          "longtitude": 137.446531,
+          "url": "https://www.city.ena.lg.jp/soshikiichiran/kyoikuiinkai/shogaigakushuka/8/1/2027.html"
+        },
+        {
+           "japaneseName": "岩村コミュニティセンター",
+          "name": "岩村社區中心",
+          "latitude": 35.3661756,
+          "longtitude": 137.4351702,
+          "url": "https://www.city.ena.lg.jp/soshikiichiran/iwamurashinkojimusho/4732.html"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 39,
+      "name": "岐阜城",
+      "japaneseName": "岐阜城",
+      "furigana": "ぎふじょう",
+      "area": "岐阜縣",
+      "type": "山城",
+      "tenshu": "三重四階望樓型(復興)",
+      "latitude": 35.433922,
+      "longtitude": 136.782046,
+      "stampPlace": [
+        {
+           "japaneseName": "岐阜城資料館",
+          "name": "岐阜城資料館",
+          "latitude": 35.4336372,
+          "longtitude": 136.7827038,
+          "url": "https://www.gifucvb.or.jp/tw/01_sightseeing/01_02.html"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 40,
+      "name": "山中城",
+      "japaneseName": "山中城",
+      "furigana": "やまなかじょう",
+      "area": "靜岡縣",
+      "type": "山城",
+      "tenshu": "無",
+      "latitude": 35.157112,
+      "longtitude": 138.994608,
+      "stampPlace": [
+        {
+           "japaneseName": "山中城跡売店内",
+          "name": "山中城跡販賣部內",
+          "latitude": 35.153604,
+          "longtitude": 138.9939878,
+          "url": "https://b-izu.com/zh-hant/spot/post-16421/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 41,
+      "name": "駿府城",
+      "japaneseName": "駿府城",
+      "furigana": "すんぷじょう",
+      "area": "靜岡縣",
+      "type": "平城",
+      "tenshu": "無",
+      "latitude": 34.980408,
+      "longtitude": 138.382542,
+      "stampPlace": [
+        {
+           "japaneseName": "東御門券売所",
+          "name": "東御門售票所",
+          "latitude": 34.977841,
+          "longtitude": 138.3848586,
+          "url": "https://sumpu-castlepark.com/gomon/guide/"
+        },
+        {
+           "japaneseName": "坤櫓券売所",
+          "name": "坤櫓售票所",
+          "latitude": 34.9781688,
+          "longtitude": 138.3811451,
+          "url": "https://sumpu-castlepark.com/hitsujisaru/guide/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 42,
+      "name": "掛川城",
+      "japaneseName": "掛川城",
+      "furigana": "かけがわじょう",
+      "area": "靜岡縣",
+      "type": "平山城",
+      "tenshu": "三重四階望樓型(復元)",
+      "latitude": 34.775199,
+      "longtitude": 138.013898,
+      "stampPlace": [
+        {
+           "japaneseName": "掛川城御殿",
+          "name": "掛川城御殿",
+          "latitude": 34.775462,
+          "longtitude": 138.014804,
+          "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/kakegawajyogoten.html"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 43,
+      "name": "犬山城",
+      "japaneseName": "犬山城",
+      "furigana": "いぬやまじょう",
+      "area": "愛知縣",
+      "type": "平山城",
+      "tenshu": "三重四階地下二階望樓型(現存)",
+      "latitude": 35.388329,
+      "longtitude": 136.939248,
+      "stampPlace": [
+        {
+           "japaneseName": "犬山城管理事務所",
+          "name": "犬山城管理事務所",
+          "latitude": 35.3883604,
+          "longtitude": 136.9391766,
+          "url": "https://inuyamajo.jp/zh-hant/visit/openinghours-and-entrancefee/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 44,
+      "name": "名古屋城",
+      "japaneseName": "名古屋城",
+      "furigana": "なごやじょう",
+      "area": "愛知縣",
+      "type": "平城",
+      "tenshu": "五重七階地下一階層塔型(再建)",
+      "latitude": 35.18559,
+      "longtitude": 136.899107,
+      "stampPlace": [
+        {
+           "japaneseName": "正門改札所",
+          "name": "正門售票口",
+          "latitude": 35.1835976,
+          "longtitude": 136.8977217,
+          "url": "https://www.nagoyajo.city.nagoya.jp/tw/information/"
+        },
+        {
+           "japaneseName": "東門改札所",
+          "name": "東門售票口",
+          "latitude": 35.1840141,
+          "longtitude": 136.9030838,
+          "url": "https://www.nagoyajo.city.nagoya.jp/tw/information/"
+        },
+        {
+           "japaneseName": "総合案内所",
+          "name": "綜合案內所",
+          "latitude": 35.1835414,
+          "longtitude": 136.8978657,
+          "url": "https://www.nagoyajo.city.nagoya.jp/tw/information/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 45,
+      "name": "岡崎城",
+      "japaneseName": "岡崎城",
+      "furigana": "おかざきじょう",
+      "area": "愛知縣",
+      "type": "平山城",
+      "tenshu": "三重五階層塔型(復興)",
+      "latitude": 34.956302,
+      "longtitude": 137.158736,
+      "stampPlace": [
+        {
+           "japaneseName": "天守閣1階",
+          "name": "天守閣1樓",
+          "latitude": 34.956343,
+          "longtitude": 137.1587937,
+          "url": "https://aichinavi.jp/tw/spots/detail/37/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 46,
+      "name": "長篠城",
+      "japaneseName": "長篠城",
+      "furigana": "ながしのじょう",
+      "area": "愛知縣",
+      "type": "平城",
+      "tenshu": "無",
+      "latitude": 34.922517,
+      "longtitude": 137.559544,
+      "stampPlace": [
+        {
+           "japaneseName": "新城市長篠城址史跡保存館窓口",
+          "name": "新城市長篠城址史跡保存館窗口",
+          "latitude": 34.9233056,
+          "longtitude": 137.5594879,
+          "url": "https://www.aichi-now.jp/tw/spots/detail/1986/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 47,
+      "name": "伊賀上野城",
+      "japaneseName": "伊賀上野城",
+      "furigana": "いがうえのじょう",
+      "area": "三重縣",
+      "type": "平山城",
+      "tenshu": "三重三階層塔型(復興)",
+      "latitude": 34.770182,
+      "longtitude": 136.127042,
+      "stampPlace": [
+        {
+           "japaneseName": "大天守閣1階",
+          "name": "大天守閣1樓",
+          "latitude": 34.7701647,
+          "longtitude": 136.1271106,
+          "url": "https://www.kankomie.or.jp/tw/spot/detail_3156.html"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 48,
+      "name": "松阪城",
+      "japaneseName": "松阪城",
+      "furigana": "まつさかじょう",
+      "area": "三重縣",
+      "type": "平山城",
+      "tenshu": "只殘存天守台",
+      "latitude": 34.576081,
+      "longtitude": 136.525534,
+      "stampPlace": [
+        {
+           "japaneseName": "松阪市立歴史民俗資料館",
+          "name": "松阪市立歴史民俗資料館",
+          "latitude": 34.576601,
+          "longtitude": 136.525862,
+          "url": "https://www.city.matsusaka.mie.jp/site/rekisiminzoku/rekimin-riyou.html"
+        },
+        {
+           "japaneseName": "本居宣長記念館",
+          "name": "本居宣長紀念館",
+          "latitude": 34.5750275,
+          "longtitude": 136.5253454,
+          "url": "https://www.norinagakinenkan.com/info.html"
+        },
+        {
+           "japaneseName": "豪商のまち松阪観光交流センター",
+          "name": "豪商的城市松阪觀光交流中心",
+          "latitude": 34.5782771,
+          "longtitude": 136.5296201,
+          "url": "https://www.iseshima-kanko.jp/zh-TW/see-and-do/2558"
+        }
+      ],
+      "remark": "若兩館皆休館，蓋章請改至「豪商的城市松阪觀光交流中心」。"
+    },
+    {
+      "serialNumber": 49,
+      "name": "小谷城",
+      "japaneseName": "小谷城",
+      "furigana": "おだにじょう",
+      "area": "滋賀縣",
+      "type": "山城",
+      "tenshu": "無",
+      "latitude": 35.459744,
+      "longtitude": 136.277747,
+      "stampPlace": [
+        {
+           "japaneseName": "小谷城戦国歴史資料館",
+          "name": "小谷城戰國歴史資料館",
+          "latitude": 35.4525757,
+          "longtitude": 136.2694549,
+          "url": "https://www.eonet.ne.jp/~odanijou-s/info.html"
+        },
+        {
+           "japaneseName": "長浜市役所湖北支所",
+          "name": "長濱市役所湖北分所",
+          "latitude": 35.4466822,
+          "longtitude": 136.2424811,
+          "url": "https://www.city.nagahama.lg.jp/0000002355.html"
+        }
+      ],
+      "remark": "小谷城戰國歴史資料館每週二休館，蓋章請改洽「長濱市役所湖北支所」。"
+    },
+    {
+      "serialNumber": 50,
+      "name": "彥根城",
+      "japaneseName": "彦根城",
+      "furigana": "ひこねじょう",
+      "area": "滋賀縣",
+      "type": "平山城",
+      "tenshu": "三重三階望樓型(現存)",
+      "latitude": 35.276458,
+      "longtitude": 136.25175,
+      "stampPlace": [
+        {
+           "japaneseName": "彦根市開国記念館",
+          "name": "彥根市開國紀念館",
+          "latitude": 35.2752807,
+          "longtitude": 136.2552751,
+          "url": "https://hikonecastle.com/kaikoku.html"
+        },
+        {
+           "japaneseName": "表門券売所",
+          "name": "表門售票處",
+          "latitude": 35.276452,
+          "longtitude": 136.251846,
+          "url": "https://hikonecastle.com/information.html"
+        }
+      ],
+      "remark": "印章原常設置於彥根城表門售票處，現已移轉至位於佐和口多聞櫓旁的彥根市開國紀念館，但年底休館期間印章則設置在表門售票處。"
+    },
+    {
+      "serialNumber": 51,
+      "name": "安土城",
+      "japaneseName": "安土城",
+      "furigana": "あづちじょう",
+      "area": "滋賀縣",
+      "type": "山城",
+      "tenshu": "只殘存天守台",
+      "latitude": 35.155881,
+      "longtitude": 136.139313,
+      "stampPlace": [
+        {
+           "japaneseName": "安土城天主信長の館",
+          "name": "安土城天主信長之館",
+          "latitude": 35.1488278,
+          "longtitude": 136.14795,
+          "url": "https://tw.biwako-visitors.jp/spot/detail/158"
+        },
+        {
+           "japaneseName": "安土城郭資料館",
+          "name": "安土城郭資料館",
+          "latitude": 35.1420556,
+          "longtitude": 136.1334389,
+          "url": "https://www.biwako-visitors.jp/spot/detail/1001/"
+        },
+        {
+           "japaneseName": "安土城跡受付",
+          "name": "安土城跡入口",
+          "latitude": 35.1558183,
+          "longtitude": 136.1395424,
+          "url": "https://www.azuchi-nobunaga.com/guide"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 52,
+      "name": "觀音寺城",
+      "japaneseName": "観音寺城",
+      "furigana": "かんのんじじょう",
+      "area": "滋賀縣",
+      "type": "山城",
+      "tenshu": "無",
+      "latitude": 35.14584,
+      "longtitude": 136.157689,
+      "stampPlace": [
+        {
+           "japaneseName": "石寺楽市会館",
+          "name": "石寺樂市會館",
+          "latitude": 35.137091,
+          "longtitude": 136.162792,
+          "url": "https://www.azuchi-shiga.com/m-isiterarakuiti.htm"
+        },
+        {
+           "japaneseName": "観音正寺",
+          "name": "觀音正寺",
+          "latitude": 35.1449585,
+          "longtitude": 136.160614,
+          "url": "https://www.biwako-visitors.jp/spot/detail/20484/"
+        },
+        {
+           "japaneseName": "桑実寺",
+          "name": "桑實寺",
+          "latitude": 35.1481936,
+          "longtitude": 136.154098,
+          "url": "https://www.biwako-visitors.jp/spot/detail/533/"
+        },
+        {
+           "japaneseName": "安土城郭資料館",
+          "name": "安土城郭資料館",
+          "latitude": 35.1420556,
+          "longtitude": 136.1334389,
+          "url": "https://www.biwako-visitors.jp/spot/detail/1001/"
+        }
+      ],
+      "remark": "石寺樂市會館於12月中旬~3月上旬休館。"
+    },
+    {
+      "serialNumber": 53,
+      "name": "二條城",
+      "japaneseName": "二条城",
+      "furigana": "にじょうじょう",
+      "area": "京都府",
+      "type": "平城",
+      "tenshu": "只殘存天守台",
+      "latitude": 35.01349,
+      "longtitude": 135.746923,
+      "stampPlace": [
+        {
+           "japaneseName": "総合案内所",
+          "name": "綜合案內所",
+          "latitude": 35.012798,
+          "longtitude": 135.7508894,
+          "url": "https://nijo-jocastle.city.kyoto.lg.jp/service/#general-information-office-sec"
+        },
+        {
+           "japaneseName": "大休憩所",
+          "name": "大休憩所",
+          "latitude": 35.013667,
+          "longtitude": 135.7509221,
+          "url": "https://nijo-jocastle.city.kyoto.lg.jp/service/#great-rest-area-sec"
+        }
+      ],
+      "remark": "12/29～12/31為休城日，無法蓋章。"
+    },
+    {
+      "serialNumber": 54,
+      "name": "大阪城",
+      "japaneseName": "大阪城",
+      "furigana": "おおさかじょう",
+      "area": "大阪府",
+      "type": "平山城",
+      "tenshu": "五重八階望樓型(復興)",
+      "latitude": 34.687346,
+      "longtitude": 135.525871,
+      "stampPlace": [
+        {
+           "japaneseName": "天守閣1階",
+          "name": "天守閣1樓",
+          "latitude": 34.6872962,
+          "longtitude": 135.5258605,
+          "url": "https://osaka-info.jp/tw/spot/osaka-castle-main-keep/"
+        }
+      ],
+      "remark": "天守閣門票將於2025年(令和7年)春天開始由現在的600日圓調漲至1200日圓。"
+    },
+    {
+      "serialNumber": 55,
+      "name": "千早城",
+      "japaneseName": "千早城",
+      "furigana": "ちはやじょう",
+      "area": "大阪府",
+      "type": "山城",
+      "tenshu": "無",
+      "latitude": 34.415381,
+      "longtitude": 135.653652,
+      "stampPlace": [
+        {
+           "japaneseName": "金剛山 山の豆腐",
+          "name": "金剛山 山之豆腐",
+          "latitude": 34.418793,
+          "longtitude": 135.6508211,
+          "url": "https://tofu.matsumasa.org/castle.html"
+        },
+        {
+           "japaneseName": "千早城跡茶屋(不定期)",
+          "name": "千早城跡茶屋(不定期)",
+          "latitude": 34.4187591,
+          "longtitude": 135.651047,
+          "url": "https://www.vill.chihayaakasaka.osaka.jp/kakuka/sangyokensetsu/nourinshoko/2_4/2/363.html"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 56,
+      "name": "竹田城",
+      "japaneseName": "竹田城",
+      "furigana": "たけだじょう",
+      "area": "兵庫縣",
+      "type": "山城",
+      "tenshu": "只殘存天守台",
+      "latitude": 35.300538,
+      "longtitude": 134.828996,
+      "stampPlace": [
+        {
+           "japaneseName": "JR竹田駅",
+          "name": "JR竹田站",
+          "latitude": 35.2990924,
+          "longtitude": 134.8358738,
+          "url": "https://www.city.asago.hyogo.jp/soshiki/24/1579.html"
+        },
+        {
+           "japaneseName": "わだやま観光案内所「山城の郷」",
+          "name": "和田山觀光案內所「山城之鄉」",
+          "latitude": 35.3043159,
+          "longtitude": 134.8212933,
+          "url": "https://www.city.asago.hyogo.jp/soshiki/24/6725.html"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 57,
+      "name": "篠山城",
+      "japaneseName": "篠山城",
+      "furigana": "ささやまじょう",
+      "area": "兵庫縣",
+      "type": "平山城",
+      "tenshu": "只殘存天守台",
+      "latitude": 35.072827,
+      "longtitude": 135.218369,
+      "stampPlace": [
+        {
+           "japaneseName": "大書院館内",
+          "name": "大書院館內",
+          "latitude": 35.0734169,
+          "longtitude": 135.2174914,
+          "url": "https://withsasayama.jp/osyoin/#osyoin6"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 58,
+      "name": "明石城",
+      "japaneseName": "明石城",
+      "furigana": "あかしじょう",
+      "area": "兵庫縣",
+      "type": "平山城",
+      "tenshu": "只殘存天守台",
+      "latitude": 34.652757,
+      "longtitude": 134.992022,
+      "stampPlace": [
+        {
+           "japaneseName": "明石公園サービスセンター受付窓口",
+          "name": "明石公園服務中心櫃檯窗口",
+          "latitude": 34.6504816,
+          "longtitude": 134.9921674,
+          "url": "https://hyogo-akashipark.jp/aboutpark/servicecenter/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 59,
+      "name": "姬路城",
+      "japaneseName": "姫路城",
+      "furigana": "ひめじじょう",
+      "area": "兵庫縣",
+      "type": "平山城",
+      "tenshu": "五重六階地下一階望樓型(現存)",
+      "latitude": 34.839426,
+      "longtitude": 134.693985,
+      "stampPlace": [
+        {
+           "japaneseName": "姫路城管理事務所",
+          "name": "姬路城管理事務所",
+          "latitude": 34.8382977,
+          "longtitude": 134.6924369,
+          "url": "https://www.himejicastle.jp/cn_han/"
+        },
+        {
+           "japaneseName": "大天守入口",
+          "name": "大天守入口",
+          "latitude": 34.8394105,
+          "longtitude": 134.6940169,
+          "url": "https://www.japan.travel/tw/spot/1030/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 60,
+      "name": "赤穗城",
+      "japaneseName": "赤穂城",
+      "furigana": "あこうじょう",
+      "area": "兵庫縣",
+      "type": "平城",
+      "tenshu": "只殘存天守台",
+      "latitude": 34.745865,
+      "longtitude": 134.38927,
+      "stampPlace": [
+        {
+           "japaneseName": "本丸櫓門下",
+          "name": "本丸櫓門下",
+          "latitude": 34.7464518,
+          "longtitude": 134.3890573,
+          "url": "http://www.ako-hyg.ed.jp/bunkazai/akojo/index.html"
+        },
+        {
+           "japaneseName": "赤穂市立歴史博物館",
+          "name": "赤穗市立歴史博物館",
+          "latitude": 34.7473655,
+          "longtitude": 134.3904566,
+          "url": "https://ako-kankou.jp/tw/sightseeing/ako-museum.html"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 61,
+      "name": "高取城",
+      "japaneseName": "高取城",
+      "furigana": "たかとりじょう",
+      "area": "奈良縣",
+      "type": "山城",
+      "tenshu": "只殘存天守台",
+      "latitude": 34.429296,
+      "longtitude": 135.827494,
+      "stampPlace": [
+        {
+           "japaneseName": "高取町観光案内所「夢創舘」",
+          "name": "高取町觀光諮詢所「夢創館」",
+          "latitude": 34.444786,
+          "longtitude": 135.8005317,
+          "url": "https://sightseeing2.takatori.info/musoukan/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 62,
+      "name": "和歌山城",
+      "japaneseName": "和歌山城",
+      "furigana": "わかやまじょう",
+      "area": "和歌山縣",
+      "type": "平山城",
+      "tenshu": "三重三階層塔型(復元)",
+      "latitude": 34.227685,
+      "longtitude": 135.171482,
+      "stampPlace": [
+        {
+           "japaneseName": "和歌山城天守閣楠門受付",
+          "name": "和歌山城天守閣楠門窗口",
+          "latitude": 34.2274447,
+          "longtitude": 135.1711236,
+          "url": "https://tw.visitwakayama.jp/venues/venue_8/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 63,
+      "name": "鳥取城",
+      "japaneseName": "鳥取城",
+      "furigana": "とっとりじょう",
+      "area": "鳥取縣",
+      "type": "平山城",
+      "tenshu": "只殘存天守台",
+      "latitude": 35.510271,
+      "longtitude": 134.240929,
+      "stampPlace": [
+        {
+           "japaneseName": "鳥取城跡内「仁風閣」内",
+          "name": "鳥取城跡內「仁風閣」內",
+          "latitude": 35.5071402,
+          "longtitude": 134.2374688,
+          "url": "https://www.tbz.or.jp/jinpuukaku/stamp/"
+        },
+        {
+           "japaneseName": "鳥取県立博物館",
+          "name": "鳥取縣立博物館",
+          "latitude": 35.5083391,
+          "longtitude": 134.2361258,
+          "url": "https://www.pref.tottori.lg.jp/264550.htm"
+        }
+      ],
+      "remark": "仁風閣休館時，蓋章請改至「鳥取縣立博物館」，若皆休館，則改洽「鳥取市役所本廳舍1樓綜合窗口」或「1樓管理室蓋章」。"
+    },
+    {
+      "serialNumber": 64,
+      "name": "松江城",
+      "japaneseName": "松江城",
+      "furigana": "まつえじょう",
+      "area": "島根縣",
+      "type": "平山城",
+      "tenshu": "五重六階望樓型(現存)",
+      "latitude": 35.475059,
+      "longtitude": 133.050723,
+      "stampPlace": [
+        {
+           "japaneseName": "松江城天守内受付窓口",
+          "name": "松江城天守內櫃檯窗口",
+          "latitude": 35.4751063,
+          "longtitude": 133.0507777,
+          "url": "https://www.kankou-shimane.com/zh-tw/destinations/971"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 65,
+      "name": "月山富田城",
+      "japaneseName": "月山富田城",
+      "furigana": "がっさんとだじょう",
+      "area": "島根縣",
+      "type": "山城",
+      "tenshu": "無",
+      "latitude": 35.360271,
+      "longtitude": 133.186125,
+      "stampPlace": [
+        {
+           "japaneseName": "安来市立歴史資料館",
+          "name": "安來市立歴史資料館",
+          "latitude": 35.3681578,
+          "longtitude": 133.180275,
+          "url": "https://yasugi-kankou.com/spot/yasugishirekishishiryoukan/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 66,
+      "name": "津和野城",
+      "japaneseName": "津和野城",
+      "furigana": "つわのじょう",
+      "area": "島根縣",
+      "type": "山城",
+      "tenshu": "只殘存天守台",
+      "latitude": 34.460043,
+      "longtitude": 131.763749,
+      "stampPlace": [
+        {
+           "japaneseName": "リフト茶屋",
+          "name": "RIFUTO茶屋",
+          "latitude": 34.4635163,
+          "longtitude": 131.7671454,
+          "url": "https://tsuwano-kanko.net/info/tsuwanocastle_info/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 67,
+      "name": "津山城",
+      "japaneseName": "津山城",
+      "furigana": "つやまじょう",
+      "area": "岡山縣",
+      "type": "平山城",
+      "tenshu": "只殘存天守台",
+      "latitude": 35.062759,
+      "longtitude": 134.004785,
+      "stampPlace": [
+        {
+           "japaneseName": "津山城備中櫓受付",
+          "name": "津山城備中櫓窗口",
+          "latitude": 35.0623639,
+          "longtitude": 134.0049886,
+          "url": "https://www.tsuyamakan.jp/tour/detail/?pk=58"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 68,
+      "name": "備中松山城",
+      "japaneseName": "備中松山城",
+      "furigana": "びっちゅうまつやまじょう",
+      "area": "岡山縣",
+      "type": "山城",
+      "tenshu": "二重二階層塔型(現存)",
+      "latitude": 34.809092,
+      "longtitude": 133.622331,
+      "stampPlace": [
+        {
+           "japaneseName": "備中松山城券売所",
+          "name": "備中松山城售票處",
+          "latitude": 34.8086915,
+          "longtitude": 133.6216222,
+          "url": "https://www.okayama-japan.jp/tw/spot/949"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 69,
+      "name": "鬼之城",
+      "japaneseName": "鬼ノ城",
+      "furigana": "きのじょう",
+      "area": "岡山縣",
+      "type": "山城",
+      "tenshu": "無",
+      "latitude": 34.728365,
+      "longtitude": 133.765452,
+      "stampPlace": [
+        {
+           "japaneseName": "鬼城山ビジターセンター",
+          "name": "鬼城山遊客中心",
+          "latitude": 34.7257664,
+          "longtitude": 133.7586723,
+          "url": "https://www.city.soja.okayama.jp/kanko_project/bunka_sports/hakubutukantekisisetu/kinojouzan_vc.html?pc"
+        },
+        {
+           "japaneseName": "総社市埋蔵文化財学習の館",
+          "name": "總社市埋藏文化財學習館",
+          "latitude": 34.684592,
+          "longtitude": 133.779459,
+          "url": "https://www.city.soja.okayama.jp/kanko_project/bunka_sports/hakubutukantekisisetu/maizou_yakata.html"
+        }
+      ],
+      "remark": "鬼城山遊客中心休館時，蓋章請改洽「總社市埋藏文化財學習館」。"
+    },
+    {
+      "serialNumber": 70,
+      "name": "岡山城",
+      "japaneseName": "岡山城",
+      "furigana": "おかやまじょう",
+      "area": "岡山縣",
+      "type": "平山城",
+      "tenshu": "五重六階望樓型(外觀復元)",
+      "latitude": 34.665192,
+      "longtitude": 133.936104,
+      "stampPlace": [
+        {
+           "japaneseName": "天守閣入口",
+          "name": "天守閣入口",
+          "latitude": 34.6651878,
+          "longtitude": 133.9360657,
+          "url": "https://okayama-castle.jp/guide-tw/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 71,
+      "name": "福山城",
+      "japaneseName": "福山城",
+      "furigana": "ふくやまじょう",
+      "area": "廣島縣",
+      "type": "平山城",
+      "tenshu": "五重六階地下一階層塔型(復興)",
+      "latitude": 34.491053,
+      "longtitude": 133.361116,
+      "stampPlace": [
+        {
+           "japaneseName": "天守閣内券売所",
+          "name": "天守閣內售票口",
+          "latitude": 34.4911358,
+          "longtitude": 133.3610764,
+          "url": "https://fukuyamajo.jp/tw/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 72,
+      "name": "郡山城",
+      "japaneseName": "郡山城",
+      "furigana": "こおりやまじょう",
+      "area": "廣島縣",
+      "type": "山城",
+      "tenshu": "無",
+      "latitude": 34.673618,
+      "longtitude": 132.709604,
+      "stampPlace": [
+        {
+           "japaneseName": "安芸高田市吉田歴史民俗資料館",
+          "name": "安藝高田市吉田歴史民俗資料館",
+          "latitude": 34.6705669,
+          "longtitude": 132.7014433,
+          "url": "https://www.akitakata.jp/ja/hakubutsukan/general/generalinformation/"
+        },
+        {
+           "japaneseName": "安芸高田市教育委員会生涯学習課",
+          "name": "安藝高田市教育委員會生涯學習課",
+          "latitude": 34.6664188,
+          "longtitude": 132.7035566,
+          "url": "https://www.akitakata.jp/ja/shisei/section/kyouiku/shisekibunkazai/"
+        }
+      ],
+      "remark": "安藝高田市吉田歴史民俗資料館休館時，蓋章改洽「安藝高田市教育委員會生涯學習課」，地點在安藝高田市民文化中心3樓。"
+    },
+    {
+      "serialNumber": 73,
+      "name": "廣島城",
+      "japaneseName": "広島城",
+      "furigana": "ひろしまじょう",
+      "area": "廣島縣",
+      "type": "平城",
+      "tenshu": "五重五階望樓型(外觀復元)",
+      "latitude": 34.402739,
+      "longtitude": 132.459065,
+      "stampPlace": [
+        {
+           "japaneseName": "1階ミュージアムショップ",
+          "name": "1樓博物館商店",
+          "latitude": 34.4027456,
+          "longtitude": 132.4591055,
+          "url": "https://dive-hiroshima.com/tw/explore/1173/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 74,
+      "name": "岩國城",
+      "japaneseName": "岩国城",
+      "furigana": "いわくにじょう",
+      "area": "山口縣",
+      "type": "山城",
+      "tenshu": "四重六階望樓型(再建)",
+      "latitude": 34.175779,
+      "longtitude": 132.174142,
+      "stampPlace": [
+        {
+           "japaneseName": "岩国城受付窓口",
+          "name": "岩國城櫃檯窗口",
+          "latitude": 34.175242,
+          "longtitude": 132.1741976,
+          "url": "https://www.into-you.jp/zh/places/11459/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 75,
+      "name": "萩城",
+      "japaneseName": "萩城",
+      "furigana": "はぎじょう",
+      "area": "山口縣",
+      "type": "平山城",
+      "tenshu": "只殘存天守台",
+      "latitude": 34.417639,
+      "longtitude": 131.382452,
+      "stampPlace": [
+        {
+           "japaneseName": "本丸入口料金所",
+          "name": "本丸入口售票處",
+          "latitude": 34.4081121,
+          "longtitude": 131.3990499,
+          "url": "https://www.hagishi.com/zh-tw/search/detail.php?d=100049"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 76,
+      "name": "德島城",
+      "japaneseName": "徳島城",
+      "furigana": "とくしまじょう",
+      "area": "德島縣",
+      "type": "平山城",
+      "tenshu": "無",
+      "latitude": 34.07511,
+      "longtitude": 134.555273,
+      "stampPlace": [
+        {
+           "japaneseName": "徳島市立徳島城博物館受付カウンター",
+          "name": "徳島市立徳島城博物館入口櫃檯",
+          "latitude": 34.0733693,
+          "longtitude": 134.5557269,
+          "url": "https://www.city.tokushima.tokushima.jp/johaku/riyoannai.html"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 77,
+      "name": "高松城",
+      "japaneseName": "高松城",
+      "furigana": "たかまつじょう",
+      "area": "香川縣",
+      "type": "平城",
+      "tenshu": "只殘存天守台",
+      "latitude": 34.350054,
+      "longtitude": 134.050346,
+      "stampPlace": [
+        {
+           "japaneseName": "高松城東・西入口",
+          "name": "高松城東・西入口",
+          "latitude": 34.3490918,
+          "longtitude": 134.052075,
+          "url": "https://shikoku-tourism.com/zh_TW/see-and-do/10093"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 78,
+      "name": "丸龜城",
+      "japaneseName": "丸亀城",
+      "furigana": "まるがめじょう",
+      "area": "香川縣",
+      "type": "平山城",
+      "tenshu": "三重三階層塔型(現存)",
+      "latitude": 34.286243,
+      "longtitude": 133.800226,
+      "stampPlace": [
+        {
+           "japaneseName": "丸亀城天守",
+          "name": "丸龜城天守",
+          "latitude": 34.2862733,
+          "longtitude": 133.8001847,
+          "url": "https://shikoku-tourism.com/zh_TW/see-and-do/10084"
+        },
+        {
+           "japaneseName": "丸亀市立資料館",
+          "name": "丸龜市立資料館",
+          "latitude": 34.2857625,
+          "longtitude": 133.7983344,
+          "url": "https://www.city.marugame.lg.jp/site/castle/8644.html"
+        }
+      ],
+      "remark": "若遇天守閉館期間改洽「丸龜市立資料館」蓋章。"
+    },
+    {
+      "serialNumber": 79,
+      "name": "今治城",
+      "japaneseName": "今治城",
+      "furigana": "いまばりじょう",
+      "area": "愛媛縣",
+      "type": "平城",
+      "tenshu": "五重六階望樓型(模擬)",
+      "latitude": 34.063336,
+      "longtitude": 133.006783,
+      "stampPlace": [
+        {
+           "japaneseName": "今治城管理事務所(天守閣内)",
+          "name": "今治城管理事務所(天守閣內)",
+          "latitude": 34.063447,
+          "longtitude": 133.0067464,
+          "url": "https://www.city.imabari.ehime.jp/museum/imabarijo/info/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 80,
+      "name": "湯築城",
+      "japaneseName": "湯築城",
+      "furigana": "ゆづきじょう",
+      "area": "愛媛縣",
+      "type": "平山城",
+      "tenshu": "無",
+      "latitude": 33.848073,
+      "longtitude": 132.786784,
+      "stampPlace": [
+        {
+           "japaneseName": "湯築城資料館",
+          "name": "湯築城資料館",
+          "latitude": 33.8481345,
+          "longtitude": 132.7856333,
+          "url": "https://bunka.nii.ac.jp/museums/detail/13205"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 81,
+      "name": "松山城",
+      "japaneseName": "松山城",
+      "furigana": "まつやまじょう",
+      "area": "愛媛縣",
+      "type": "平山城",
+      "tenshu": "三重三階地下一階層塔型(現存)",
+      "latitude": 33.845539,
+      "longtitude": 132.765727,
+      "stampPlace": [
+        {
+           "japaneseName": "松山城天守入口",
+          "name": "松山城天守入口",
+          "latitude": 33.8455902,
+          "longtitude": 132.7657347,
+          "url": "https://shikoku-tourism.com/zh_TW/see-and-do/10005"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 82,
+      "name": "大洲城",
+      "japaneseName": "大洲城",
+      "furigana": "おおずじょう",
+      "area": "愛媛縣",
+      "type": "平山城",
+      "tenshu": "四重四階層塔型(復元)",
+      "latitude": 33.509514,
+      "longtitude": 132.541161,
+      "stampPlace": [
+        {
+           "japaneseName": "台所櫓入口(大洲城内入口)",
+          "name": "台所櫓入口(大洲城內入口)",
+          "latitude": 33.5095497,
+          "longtitude": 132.5413122,
+          "url": "https://ozucastle.jp/ozu_castle/guidance/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 83,
+      "name": "宇和島城",
+      "japaneseName": "宇和島城",
+      "furigana": "うわじまじょう",
+      "area": "愛媛縣",
+      "type": "平山城",
+      "tenshu": "三重三階層塔型(現存)",
+      "latitude": 33.219478,
+      "longtitude": 132.565236,
+      "stampPlace": [
+        {
+           "japaneseName": "宇和島城天守",
+          "name": "宇和島城天守",
+          "latitude": 33.2194492,
+          "longtitude": 132.565284,
+          "url": "https://shikoku-tourism.com/zh_TW/see-and-do/10013"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 84,
+      "name": "高知城",
+      "japaneseName": "高知城",
+      "furigana": "こうちじょう",
+      "area": "高知縣",
+      "type": "平山城",
+      "tenshu": "四層六階望樓型(現存)",
+      "latitude": 33.560824,
+      "longtitude": 133.531609,
+      "stampPlace": [
+        {
+           "japaneseName": "本丸御殿入口",
+          "name": "本丸御殿入口",
+          "latitude": 33.5608125,
+          "longtitude": 133.5314844,
+          "url": "https://shikoku-tourism.com/zh_TW/see-and-do/10061"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 85,
+      "name": "福岡城",
+      "japaneseName": "福岡城",
+      "furigana": "ふくおかじょう",
+      "area": "福岡縣",
+      "type": "平山城",
+      "tenshu": "只殘存天守台",
+      "latitude": 33.584387,
+      "longtitude": 130.383103,
+      "stampPlace": [
+        {
+           "japaneseName": "福岡城むかし探訪館",
+          "name": "福岡城往昔探訪館",
+          "latitude": 33.5873383,
+          "longtitude": 130.3847603,
+          "url": "https://fukuokajyo.com/facility/mukashi-tanboukan/"
+        },
+        {
+           "japaneseName": "鴻臚館跡展示館",
+          "name": "鴻臚館跡展示館",
+          "latitude": 33.586063,
+          "longtitude": 130.38529,
+          "url": "https://fukuokajyo.com/facility/kourokan-ato-tenjikan/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 86,
+      "name": "大野城",
+      "japaneseName": "大野城",
+      "furigana": "おおのじょう",
+      "area": "福岡縣",
+      "type": "山城",
+      "tenshu": "無",
+      "latitude": 33.539804,
+      "longtitude": 130.52207,
+      "stampPlace": [
+        {
+           "japaneseName": "福岡県立四王寺県民の森管理事務所",
+          "name": "福岡縣立四王寺縣民之森管理事務所",
+          "latitude": 33.5340045,
+          "longtitude": 130.5190432,
+          "url": "https://shioujikenminnomori.org/about/center/"
+        },
+        {
+           "japaneseName": "太宰府市文化ふれあい館",
+          "name": "太宰府市文化交流館",
+          "latitude": 33.520273,
+          "longtitude": 130.509477,
+          "url": "https://dazaifu-bunka.or.jp/intro/access.html"
+        },
+        {
+           "japaneseName": "大宰府展示館",
+          "name": "大宰府展示館",
+          "latitude": 33.513746,
+          "longtitude": 130.516151,
+          "url": "https://www.kotodazaifu.net/pavilion"
+        },
+        {
+           "japaneseName": "大野城市総合体育館",
+          "name": "大野城市綜合體育館",
+          "latitude": 33.5401194,
+          "longtitude": 130.5022389,
+          "url": "https://www.onojo-sports.or.jp/onojoshi-sogotaiikukan/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 87,
+      "name": "名護屋城",
+      "japaneseName": "名護屋城",
+      "furigana": "なごやじょう",
+      "area": "佐賀縣",
+      "type": "平山城",
+      "tenshu": "只殘存天守台",
+      "latitude": 33.530939,
+      "longtitude": 129.868869,
+      "stampPlace": [
+        {
+           "japaneseName": "佐賀県立名護屋城博物館",
+          "name": "佐賀縣立名護屋城博物館",
+          "latitude": 33.5277248,
+          "longtitude": 129.8702281,
+          "url": "https://saga-museum.jp/nagoya/information/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 88,
+      "name": "吉野里",
+      "japaneseName": "吉野ヶ里",
+      "furigana": "よしのがり",
+      "area": "佐賀縣",
+      "type": "平城",
+      "tenshu": "無",
+      "latitude": 33.324633,
+      "longtitude": 130.384982,
+      "stampPlace": [
+        {
+           "japaneseName": "吉野ヶ里歴史公園東口券売機横",
+          "name": "吉野里歴史公園東口售票機旁",
+          "latitude": 33.3234547,
+          "longtitude": 130.3887537,
+          "url": "https://www.yoshinogari.jp/information/use/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 89,
+      "name": "佐賀城",
+      "japaneseName": "佐賀城",
+      "furigana": "さがじょう",
+      "area": "佐賀縣",
+      "type": "平城",
+      "tenshu": "只殘存天守台",
+      "latitude": 33.245721,
+      "longtitude": 130.302095,
+      "stampPlace": [
+        {
+           "japaneseName": "佐賀城本丸歴史館受付",
+          "name": "佐賀城本丸歴史館櫃檯",
+          "latitude": 33.2453995,
+          "longtitude": 130.3032824,
+          "url": "https://saga-museum.jp/sagajou/language/chinese-t/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 90,
+      "name": "平戶城",
+      "japaneseName": "平戸城",
+      "furigana": "ひらどじょう",
+      "area": "長崎縣",
+      "type": "平山城",
+      "tenshu": "三重五階層塔型(代用)",
+      "latitude": 33.368604,
+      "longtitude": 129.557599,
+      "stampPlace": [
+        {
+           "japaneseName": "平戸城天守閣",
+          "name": "平戶城天守閣",
+          "latitude": 33.3685455,
+          "longtitude": 129.5575561,
+          "url": "https://hirado-castle.jp/tc/guide/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 91,
+      "name": "島原城",
+      "japaneseName": "島原城",
+      "furigana": "しまばらじょう",
+      "area": "長崎縣",
+      "type": "平城",
+      "tenshu": "五重五階層塔型(復興)",
+      "latitude": 32.789215,
+      "longtitude": 130.367265,
+      "stampPlace": [
+        {
+           "japaneseName": "島原城受付窓口",
+          "name": "島原城櫃檯窗口",
+          "latitude": 32.7892283,
+          "longtitude": 130.3673433,
+          "url": "https://www.discover-nagasaki.com/zh-TW/sightseeing/298"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 92,
+      "name": "熊本城",
+      "japaneseName": "熊本城",
+      "furigana": "くまもとじょう",
+      "area": "熊本縣",
+      "type": "平山城",
+      "tenshu": "三重六階地下一階望樓型(再建)",
+      "latitude": 32.806028,
+      "longtitude": 130.705892,
+      "stampPlace": [
+        {
+           "japaneseName": "二の丸券売所",
+          "name": "二之丸售票處",
+          "latitude": 32.8062125,
+          "longtitude": 130.7019137,
+          "url": "https://castle.kumamoto-guide.jp/tw/info/"
+        },
+        {
+           "japaneseName": "北口券売所",
+          "name": "北口售票處",
+          "latitude": 32.8058668,
+          "longtitude": 130.7039427,
+          "url": "https://castle.kumamoto-guide.jp/tw/info/"
+        },
+        {
+           "japaneseName": "南口券売所",
+          "name": "南口售票處",
+          "latitude": 32.8032164,
+          "longtitude": 130.7079369,
+          "url": "https://castle.kumamoto-guide.jp/tw/info/"
+        },
+        {
+           "japaneseName": "熊本城ミュージアムわくわく座",
+          "name": "熊本城博物館湧湧(WAKUWAKU)座",
+          "latitude": 32.8037685,
+          "longtitude": 130.7033477,
+          "url": "https://www.sakuranobaba-johsaien.jp/about_wakuwakuza/"
+        }
+      ],
+      "remark": "熊本城印章設置場所於2016年(平成28年)發生之熊本地震後已有多次變更，請留意最新資訊。"
+    },
+    {
+      "serialNumber": 93,
+      "name": "人吉城",
+      "japaneseName": "人吉城",
+      "furigana": "ひとよしじょう",
+      "area": "熊本縣",
+      "type": "平山城",
+      "tenshu": "無",
+      "latitude": 32.211038,
+      "longtitude": 130.766429,
+      "stampPlace": [
+        {
+           "japaneseName": "人吉城歴史館",
+          "name": "人吉城歷史館",
+          "latitude": 32.2111674,
+          "longtitude": 130.766571,
+          "url": "https://www.city.hitoyoshi.lg.jp/kosodate_kyoiku/kyoiku_bunka/rekishi_bunka/34259"
+        }
+      ],
+      "remark": "受到2020(令和2年)7月發生的豪雨災害影響，人吉城歷史館目前處於休館中的狀態，重新開館時間未定，故印章改設置於歷史館東側的停車場(靠近建築物)。"
+    },
+    {
+      "serialNumber": 94,
+      "name": "大分府內城",
+      "japaneseName": "大分府内城",
+      "furigana": "おおいたふないじょう",
+      "area": "大分縣",
+      "type": "平城",
+      "tenshu": "只殘存天守台",
+      "latitude": 33.240642,
+      "longtitude": 131.611433,
+      "stampPlace": [
+        {
+           "japaneseName": "大手門",
+          "name": "大手門",
+          "latitude": 33.2396835,
+          "longtitude": 131.6113215,
+          "url": "https://www.city.oita.oita.jp/o204/bunkasports/shitebunkazai/1352943146749.html"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 95,
+      "name": "岡城",
+      "japaneseName": "岡城",
+      "furigana": "おかじょう",
+      "area": "大分縣",
+      "type": "平山城",
+      "tenshu": "無",
+      "latitude": 32.96906,
+      "longtitude": 131.407771,
+      "stampPlace": [
+        {
+           "japaneseName": "観覧料徴収所(総役所跡)",
+          "name": "觀覧券販售所(總役所跡)",
+          "latitude": 32.966291,
+          "longtitude": 131.403014,
+          "url": "https://okajou.jp/access/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 96,
+      "name": "飫肥城",
+      "japaneseName": "飫肥城",
+      "furigana": "おびじょう",
+      "area": "宮崎縣",
+      "type": "平山城",
+      "tenshu": "無",
+      "latitude": 31.629053,
+      "longtitude": 131.350363,
+      "stampPlace": [
+        {
+           "japaneseName": "飫肥城歴史資料館",
+          "name": "飫肥城歴史資料館",
+          "latitude": 31.6281575,
+          "longtitude": 131.3513931,
+          "url": "https://www.kankou-nichinan.jp/tourisms/300/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 97,
+      "name": "鹿兒島城",
+      "japaneseName": "鹿児島城",
+      "furigana": "かごしまじょう",
+      "area": "鹿兒島縣",
+      "type": "平城",
+      "tenshu": "無",
+      "latitude": 31.598532,
+      "longtitude": 130.554741,
+      "stampPlace": [
+        {
+           "japaneseName": "鹿児島県歴史・美術センター黎明館内総合案内所",
+          "name": "鹿兒島縣歴史・美術中心黎明館內綜合案內所",
+          "latitude": 31.5985585,
+          "longtitude": 130.5548248,
+          "url": "https://www.pref.kagoshima.jp/reimeikan/"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 98,
+      "name": "今歸仁城",
+      "japaneseName": "今帰仁城",
+      "furigana": "なきじんじょう",
+      "area": "沖繩縣",
+      "type": "山城",
+      "tenshu": "無",
+      "latitude": 26.690283,
+      "longtitude": 127.930353,
+      "stampPlace": [
+        {
+           "japaneseName": "今帰仁村グスク交流センター",
+          "name": "今歸仁村御城交流中心",
+          "latitude": 26.692558,
+          "longtitude": 127.928066,
+          "url": "https://www.nakijinjoseki-osi.jp/information.php"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 99,
+      "name": "中城城",
+      "japaneseName": "中城城",
+      "furigana": "なかぐすくじょう",
+      "area": "沖繩縣",
+      "type": "山城",
+      "tenshu": "無",
+      "latitude": 26.283758,
+      "longtitude": 127.800962,
+      "stampPlace": [
+        {
+           "japaneseName": "管理事務所の窓口",
+          "name": "管理事務所窗口",
+          "latitude": 26.2835007,
+          "longtitude": 127.7996708,
+          "url": "https://www.nakagusuku-jo.jp/tw"
+        }
+      ],
+      "remark": "無"
+    },
+    {
+      "serialNumber": 100,
+      "name": "首里城",
+      "japaneseName": "首里城",
+      "furigana": "しゅりじょう",
+      "area": "沖繩縣",
+      "type": "平山城",
+      "tenshu": "無",
+      "latitude": 26.217025,
+      "longtitude": 127.719459,
+      "stampPlace": [
+        {
+           "japaneseName": "首里城公園管理センター",
+          "name": "首里城公園管理中心",
+          "latitude": 26.2183611,
+          "longtitude": 127.7153664,
+          "url": "https://oki-park.jp/shurijo/tc/info/15"
+        },
+        {
+           "japaneseName": "首里杜館",
+          "name": "首里杜館",
+          "latitude": 26.2180634,
+          "longtitude": 127.7160656,
+          "url": "https://oki-park.jp.t.ms.hp.transer.com/shurijo/guide/1316"
+        },
+        {
+           "japaneseName": "系図座・用物座",
+          "name": "系圖座・用物座",
+          "latitude": 26.2172135,
+          "longtitude": 127.7183462,
+          "url": "https://oki-park.jp/sp/shurijo/tc/about/3798/3832"
+        }
+      ],
+      "remark": "由於受到發生於2019年(令和元年)10月之首里城火災影響，原設置印章之北殿正在修復中，預計將在2026年修復完成，修復期間蓋章請改洽「首里城公園管理中心」。"
+    }
+  ]
+}
