@@ -538,15 +538,15 @@
       {
         "japaneseName": "和田倉休憩場",
         "name": "和田倉休憩場",
-        "latitude": 35.6847681,
-        "longtitude": 139.7613103,
+        "latitude": 35.6831679,
+        "longtitude": 139.7612493,
         "url": "https://fng.or.jp/koukyo/place/rest/wadakura-rest/"
       },
       {
         "japaneseName": "北の丸休憩場",
         "name": "北之丸休憩場",
-        "latitude": 35.691791,
-        "longtitude": 139.750514,
+        "latitude": 35.6904922,
+        "longtitude": 139.7516121,
         "url": "https://www.japan.travel/tw/spot/1728/"
       }
     ],
