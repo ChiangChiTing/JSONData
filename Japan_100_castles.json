@@ -564,14 +564,14 @@
     "longtitude": 139.252024,
     "stampPlace": [
       {
-        "japaneseName": "八王子城跡管理棟前",
-        "name": "八王子城跡管理棟前",
-        "latitude": 35.6547616,
-        "longtitude": 139.2595579,
+        "japaneseName": "八王子城跡ガイダンス施設",
+        "name": "八王子城跡導覽設施",
+        "latitude": 35.6557611,
+        "longtitude": 139.2616278,
         "url": "https://www.city.hachioji.tokyo.jp/kankobunka/003/005/p005205.html"
       }
     ],
-    "remark": "無"
+    "remark": "八王子城跡管理棟已無設置印章，蓋章請至「八王子城跡導覽設施」。"
   },
   {
     "serialNumber": 23,
