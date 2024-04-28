@@ -335,8 +335,8 @@
       {
         "japaneseName": "三重櫓",
         "name": "三重櫓",
-        "latitude": 37.1326576,
-        "longtitude": 140.2139264,
+        "latitude": 37.1326993,
+        "longtitude": 140.2138412,
         "url": "https://www.city.shirakawa.fukushima.jp/page/page005826.html"
       },
       {
@@ -354,10 +354,10 @@
         "url": "https://www.gurutto-mazar.com/detail/index_326.html"
       },
       {
-        "japaneseName": "白河集古苑",
+        "japaneseName": "白河集古苑(小峰城歴史館)",
         "name": "白河集古苑(小峰城歴史館)",
-        "latitude": 37.1324067,
-        "longtitude": 140.2136919,
+        "latitude": 37.1312652,
+        "longtitude": 140.2122084,
         "url": "https://shirakawa.welcome-fukushima.com/co/syuukoen"
       }
     ],
