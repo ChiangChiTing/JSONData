@@ -2226,14 +2226,14 @@
     "area": "長崎縣",
     "type": "平山城",
     "tenshu": "三重五階層塔型(代用)",
-    "latitude": 33.368604,
-    "longtitude": 129.557599,
+    "latitude": 33.3685041,
+    "longtitude": 129.5575098,
     "stampPlace": [
       {
         "japaneseName": "平戸城天守閣",
         "name": "平戶城天守閣",
         "latitude": 33.3685455,
-        "longtitude": 129.5575561,
+        "longtitude": 129.5575461,
         "url": "https://hirado-castle.jp/tc/guide/"
       }
     ],
