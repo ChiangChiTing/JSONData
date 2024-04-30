@@ -1,5 +1,7 @@
 {
     "notice": "端午節快樂",
+    "introductions": ["AAAAA", "BBBBB", "CCCCC"
+    ],
     "clauses": ["AAAAA", "BBBBB", "CCCCC"
     ],
     "version": "1.0.0"
