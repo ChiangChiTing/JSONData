@@ -2,6 +2,8 @@
     "notice": "端午節快樂",
     "introductions": ["AAAAA", "BBBBB", "CCCCC"
     ],
+    "questionsAndAnswers": ["AAAAA":"aaaaa", "BBBBB":"bbbbb", "CCCCC":"ccccc"
+    ],
     "clauses": ["AAAAA", "BBBBB", "CCCCC"
     ],
     "version": "1.0.0"
