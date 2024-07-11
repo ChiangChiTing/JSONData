@@ -1,8 +1,42 @@
-{
-    "notice": "端午節快樂",
-    "introductions": ["AAAAA", "BBBBB", "CCCCC"
-    ],
-    "clauses": ["AAAAA", "BBBBB", "CCCCC"
-    ],
-    "version": "1.0.0"
-}
+[
+      {
+        "question": "AAAAA",
+        "answer": "aaaaa"
+      },
+      {
+       "question": "BBBBBBBBBB",
+        "answer": "bbbbbbbbbb"
+      },
+      {
+       "question": "CCCCCCCCCCCCCCC",
+        "answer": "ccccccccccccccc"
+      },
+      {
+       "question": "DDDDDDDDDDDDDDDDDDDD",
+        "answer": "dddddddddddddddddddd"
+      },
+      {
+       "question": "EEEEEEEEEEEEEEEEEEEEEEEEE",
+        "answer": "eeeeeeeeeeeeeeeeeeeeeeeee"
+      },
+      {
+       "question": "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "answer": "ffffffffffffffffffffffffffffff"
+      },
+      {
+       "question": "GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG",
+        "answer": "ggggggggggggggggggggggggggggggggggg"
+      },
+      {
+       "question": "HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH",
+        "answer": "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+      },
+      {
+       "question": "IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII",
+        "answer": "iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii"
+      },
+      {
+       "question": "JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ",
+        "answer": "jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj"
+      }
+]
