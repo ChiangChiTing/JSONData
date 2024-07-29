@@ -1,6 +1,6 @@
 {
     "notice": "夏日炎炎，攻城別忘了補充水分！",
-    "regulations": ["1.AAAAA", "2.BBBBBBBBBB", "3.CCCCCCCCCCCCCCC", "4.DDDDDDDDDDDDDDDDDDDD", "5.EEEEEEEEEEEEEEEEEEEEEEEEE", "6.FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF", "7.GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG", "8.HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH", "9.台北市南港區經貿二路188號5樓", "10.台南市南區健康路一段257號", "11.桃園市中壢區領航北路一段1號"],
+    "regulations": ["AAAAA", "BBBBBBBBBB", "CCCCCCCCCCCCCCC", "DDDDDDDDDDDDDDDDDDDD", "EEEEEEEEEEEEEEEEEEEEEEEEE", "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF", "GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG", "HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH", "台北市南港區經貿二路188號5樓", "台南市南區健康路一段257號", "桃園市中壢區領航北路一段1號"],
     "iconSources": ["https://www.cpbl.com.tw/", "https://www.cpbl.com.tw/", "https://www.cpbl.com.tw/", "https://www.cpbl.com.tw/", "https://www.cpbl.com.tw/", "https://www.cpbl.com.tw/", "https://www.cpbl.com.tw/", "https://www.cpbl.com.tw/", "https://www.cpbl.com.tw/"],
     "version": "1.0.0"
 }
