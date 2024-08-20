@@ -3,6 +3,6 @@
     "regulations": ["AAAAA", "BBBBBBBBBB", "CCCCCCCCCCCCCCC", "DDDDDDDDDDDDDDDDDDDD", "EEEEEEEEEEEEEEEEEEEEEEEEE", "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF", "GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG", "HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH", "台北市南港區經貿二路188號5樓", "台南市南區健康路一段257號", "桃園市中壢區領航北路一段1號"],
     "regulationsUpadteDate": "2024年08月08日",
     "iconSourcesName": ["中信兄弟", "統一獅", "台鋼雄鷹", "味全龍", "樂天桃猿", "富邦悍將", "誠泰Cobras", "三商虎", "第一金剛"],
-    "iconSourcesUrl": ["https://www.cpbl.com.tw/", "https://www.cpbl.com.tw/", "https://www.cpbl.com.tw/", "https://www.cpbl.com.tw/", "https://www.cpbl.com.tw/", "https://www.cpbl.com.tw/", "https://www.cpbl.com.tw/", "https://www.cpbl.com.tw/", "https://www.cpbl.com.tw/"],
+    "iconSourcesUrl": ["http://www.brothers.tw/", "https://www.uni-lions.com.tw/", "https://www.tsghawks.com/", "https://www.wdragons.com/CWS", "https://monkeys.rakuten.com.tw/", "https://www.fubonguardians.com/", "https://www.cpbl.com.tw/", "https://www.cpbl.com.tw/", "https://www.cpbl.com.tw/"],
     "version": "1.0.0"
 }
